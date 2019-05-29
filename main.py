@@ -1,3 +1,7 @@
+"""
+@author: PurplePaprika
+"""
+
 import random as rnd
 import repository as rep
 
