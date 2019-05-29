@@ -1,3 +1,7 @@
+"""
+@author: PurplePaprika
+"""
+
 from Player import Player
 
 playerNames = ['Titanic','Bandejao','Elefante Branco','Biblioteca','CB','Cantina','Auditorios','Estacionamento','Ginasio',
